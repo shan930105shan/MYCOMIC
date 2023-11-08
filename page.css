@@ -337,7 +337,7 @@
             animation-delay: 9s;
 }
 .slider_container span {    
-    color: #000;
+    color: transparent;
     background: transparent;
     position: absolute;
     left: 0%;
