@@ -137,7 +137,7 @@
 }
 .cover
 {
-  background-color:blue;
+  /*background-color:blue;*/
   transform: rotatey(0deg);
 }
 .card1:hover .cover{
@@ -145,7 +145,7 @@
 }
 .back
 {
-  background-color:red;
+  /*background-color:red;*/
   transform: rotatey(180deg);
 }
 .card1:hover .back{
