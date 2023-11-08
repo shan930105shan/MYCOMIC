@@ -269,10 +269,10 @@
     height: 280px;
     position: relative;
     border: 20px solid;    
-    border-color: #fff;
+    border-color:  transparent;
     border-bottom-width: 100px;
     background-color: transparent;
-    box-shadow: #666 0 0 5px;
+    box-shadow:  transparent 0 0 5px;
 }
 
 .slider_container div {
