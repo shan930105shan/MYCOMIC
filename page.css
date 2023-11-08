@@ -163,7 +163,7 @@
 }
 
 @keyframes animate{
-    20% {background: url(image/Home1.jpg); top:10px;left:10px}
+    20% {background: url(image/pic1.jpg); top:10px;left:10px}
     40% {background: url(image/pic2.jpg);top:20px;left:20px}
     60% {background: url(image/pic3.jpg);top:30px;left:30px}
     80% {background: url(image/pic4.jpg);top:40px;left:40px}
