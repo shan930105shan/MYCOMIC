@@ -208,14 +208,14 @@
 
 @media (max-width:1530px){
     .body2{
-        height:350px; 
+        height:500px; 
         margin:0px 0px 20px 0px;
         width:100%; 
         display: flex;
         justify-content: center;  
         align-items: center; 
         .bodybody2{
-            height:650px; 
+            height:500px; 
             width:35%;
             margin:0% 5% 0% 10%;
             display: flex;
