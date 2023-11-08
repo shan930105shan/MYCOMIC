@@ -82,10 +82,54 @@ We will select the most suitable works for you
                 </div>
             </span>
             <span> 
-                <img
-                src="image/test.jpg"
-                style= "width: 422px; height: 285px; margin:0px 8% 0px 0px;"
-                />
+                
+  <ul class="slides">
+  <input type="radio" id="control-1" name="control" checked>
+  <input type="radio" id="control-2" name="control">
+  <input type="radio" id="control-3" name="control">
+  
+  <!--  Left/Right Button  -->
+  <div class="navigator slide-1">
+    <img src="images/image1.png" alt="pure css3 slider" />
+    <label for="control-3">
+      <i class="fas fa-chevron-left"></i>
+    </label>
+    <label for="control-2">
+      <i class="fas fa-chevron-right"></i>
+    </label>
+  </div>
+  
+  <div class="navigator slide-2">
+    <label for="control-1">
+      <i class="fas fa-chevron-left"></i>
+    </label>
+    <label for="control-3">
+      <i class="fas fa-chevron-right"></i>
+    </label>
+  </div>
+  
+  <div class="navigator slide-3">
+    <label for="control-2">
+      <i class="fas fa-chevron-left"></i>
+    </label>
+    <label for="control-1">
+      <i class="fas fa-chevron-right"></i>
+    </label>
+  </div>
+  <!--  /Left/Right Button  -->
+  
+  <li class="slide">1</li>
+  <li class="slide">2</li>
+  <li class="slide">3</li>
+  
+  <div class="controls-visible">
+    <label for="control-1"></label>
+    <label for="control-2"></label>
+    <label for="control-3"></label>
+  </div>
+</ul>
+
+                
             </span>
         </div>
         <div style ="font-size:70px;font-family:Bayon ;color:#000000;display: flex;
@@ -97,6 +141,7 @@ We will select the most suitable works for you
             <span> 
                 <img
                 src="image/chick.png"
+                style= "width: 422px; height: 285px; margin:0px 8% 0px 0px;
                 class ="box-1"
                 />
                 <div style ="font-size:40px;font-family:Bayon ;color:#000000;">
