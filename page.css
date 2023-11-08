@@ -338,7 +338,7 @@
 }
 .slider_container span {    
     color: #000;
-    background: #fff;
+    background: transparent;
     position: absolute;
     left: 0%;
     top: 280px;
