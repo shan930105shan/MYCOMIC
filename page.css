@@ -269,10 +269,10 @@
     height: 280px;
     position: relative;
     border: 20px solid;    
-    border-color:  #FFF;
+    border-color:  transparent;
     border-bottom-width: 100px;
     background-color: transparent;
-    box-shadow:  #FFF 0 0 5px;
+    box-shadow:  transparent 0 0 5px;
 }
 
 .slider_container div {
@@ -323,18 +323,18 @@
 }
 
 .slider_container div:nth-child(3) {
-    -webkit-animation-delay: 10s;
-            animation-delay: 10s;
+    -webkit-animation-delay: 3s;
+            animation-delay: 3s;
 }
 
 .slider_container div:nth-child(2) {
-    -webkit-animation-delay: 15s;
-            animation-delay: 15s;
+    -webkit-animation-delay: 6s;
+            animation-delay: 6s;
 }
 
 .slider_container div:nth-child(1) {
-    -webkit-animation-delay: 20s;
-            animation-delay: 20s;
+    -webkit-animation-delay: 9s;
+            animation-delay: 9s;
 }
 .slider_container span {    
     color: #000;
