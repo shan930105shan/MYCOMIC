@@ -183,6 +183,10 @@
     animation-delay:0s;
     /* ↑載入幾秒後開始跑 */
 }
+.box box-animation{
+    border-radius: 15px 15px 15px 15px;
+}
+
 .body2{
     height:450px; 
     margin:0px 0px 40px 0px;
