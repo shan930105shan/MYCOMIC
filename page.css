@@ -243,6 +243,79 @@
         flex-direction: column;
         justify-content: center;  
         align-items: space-around; 
+
+         .fantasy{
+         background-image:
+     radial-gradient(closest-side, rgba(227, 242, 255, 1), rgba(227, 242, 255, 0)),
+     radial-gradient(closest-side, rgba(215, 231, 212, 1), rgba(215, 231, 212, 0)),
+    radial-gradient(closest-side, rgba(255, 235, 255, 1), rgba(255, 235, 255, 0)),
+     radial-gradient(closest-side, rgba(198, 246, 247, 1), rgba(198, 246, 247, 0)),
+     radial-gradient(closest-side, rgba(253, 248, 234, 1), rgba(253, 248, 234, 0));
+  background-size:
+    130vmax 130vmax;
+    80vmax 80vmax;
+    90vmax 90vmax;
+    100vmax 110vmax;
+    80vmax 80vmax;
+  background-position:
+    -80vmax -80vmax,
+    60vmax -30vmax,
+    10vmax 10vmax,
+    -30vmax -10vmax,
+    50vmax 50vmax;
+   background-repeat: no-repeat;
+ animation: 3s movement linear infinite;
+      border-radius: 40px 40px 40px 40px;
+      }
+      
+      .love{
+         background-image:
+    radial-gradient(closest-side, rgba(227, 242, 255, 1), rgba(227, 242, 255, 0)),
+     radial-gradient(closest-side, rgba(198, 246, 247, 1), rgba(198, 246, 247, 0)),
+     radial-gradient(closest-side, rgba(255, 235, 255, 1), rgba(255, 235, 255, 0)),
+     radial-gradient(closest-side, rgba(253, 248, 234, 1), rgba(253, 248, 234, 0)),
+           radial-gradient(closest-side, rgba(215, 231, 212, 1), rgba(215, 231, 212, 0));
+  background-size:
+    130vmax 130vmax;
+    80vmax 80vmax;
+    90vmax 90vmax;
+    100vmax 110vmax;
+    80vmax 80vmax;
+  background-position:
+    -80vmax -80vmax,
+    60vmax -30vmax,
+    10vmax 10vmax,
+    -30vmax -10vmax,
+    50vmax 50vmax;
+   background-repeat: no-repeat;
+ animation: 3s movement linear infinite;
+      border-radius: 40px 40px 40px 40px;
+      }
+      
+       .touching{
+         background-image:
+     
+     radial-gradient(closest-side, rgba(215, 231, 212, 1), rgba(215, 231, 212, 0)),
+    radial-gradient(closest-side, rgba(255, 235, 255, 1), rgba(255, 235, 255, 0)),
+     radial-gradient(closest-side, rgba(198, 246, 247, 1), rgba(198, 246, 247, 0)),
+     radial-gradient(closest-side, rgba(227, 242, 255, 1), rgba(227, 242, 255, 0)),
+     radial-gradient(closest-side, rgba(253, 248, 234, 1), rgba(253, 248, 234, 0));
+  background-size:
+    130vmax 130vmax;
+    80vmax 80vmax;
+    90vmax 90vmax;
+    100vmax 110vmax;
+    80vmax 80vmax;
+  background-position:
+    -80vmax -80vmax,
+    60vmax -30vmax,
+    10vmax 10vmax,
+    -30vmax -10vmax,
+    50vmax 50vmax;
+   background-repeat: no-repeat;
+ animation: 3s movement linear infinite;
+      border-radius: 40px 40px 40px 40px;
+      }
     }
 }
 
